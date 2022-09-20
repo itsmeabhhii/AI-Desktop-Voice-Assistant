@@ -17,4 +17,4 @@ So i made an application which helped me as a student in numerous ways ,
 It can open up the necessary application just with a voice command .
 
 # Big Inspiring Note
-# Tech can revolutionise the world , Mould it in any way.
+Tech can revolutionise the world , Mould it in any way.
